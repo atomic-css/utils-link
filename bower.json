@@ -1,0 +1,19 @@
+{
+  "name": "atomic-css-utils-link",
+  "version": "1.0.0",
+  "homepage": "https://github.com/atomic-css/utils-link",
+  "authors": [
+    "Lukáš Mladý",
+    "Nicolas Gallagher"
+  ],
+  "description": "Utilities for link-related CSS",
+  "main": [
+    "link.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "component.json"
+  ]
+}

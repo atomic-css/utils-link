@@ -1,0 +1,11 @@
+{
+  "name": "utils-link",
+  "repo": "atomic-css/utils-link",
+  "description": "Utilities for link-related CSS",
+  "version": "1.0.0",
+  "styles": [
+    "link.css"
+  ],
+  "author": "Lukáš Mladý",
+  "license": "MIT"
+}
